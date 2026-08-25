@@ -27,3 +27,15 @@ El contexto de la Inteligencia Artificial está entrenado con mis participacione
 1. Clonar este repositorio:
    ```bash
    git clone [https://github.com/TU_USUARIO/portfolio-backend-ia.git](https://github.com/TU_USUARIO/portfolio-backend-ia.git)
+
+2. Configurar la clave de la API en las variables de entorno. Nunca exponer la API Key en el código:
+   ```bash
+   export GEMINI_API_KEY="tu_clave_aqui"
+3. Ejecutar el proyecto usando Maven:
+   ```bash
+   ./mvnw spring-boot:run
+
+## 📐 Prácticas de Arquitectura y QA
+* Diseño de aplicación estructurado en múltiples capas (Controlador, Servicio, Configuración).
+* Principios SOLID aplicados para facilitar futuras integraciones de Tool Calling.
+* Testing funcional orientado a la estabilidad de la API REST.
