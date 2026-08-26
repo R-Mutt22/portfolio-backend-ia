@@ -26,7 +26,7 @@ El contexto de la Inteligencia Artificial está entrenado con mis participacione
 
 1. Clonar este repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/portfolio-backend-ia.git](https://github.com/TU_USUARIO/portfolio-backend-ia.git)
+   git clone https://github.com/R-Mutt22/portfolio-backend-ia.git
 
 2. Configurar la clave de la API en las variables de entorno. Nunca exponer la API Key en el código:
    ```bash
