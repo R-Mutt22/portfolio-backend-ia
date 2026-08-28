@@ -35,6 +35,29 @@ El contexto de la Inteligencia Artificial está entrenado con mis participacione
    ```bash
    ./mvnw spring-boot:run
 
+## 📡 Documentación de la API
+
+### Enviar consulta al asistente
+
+* **URL:** `/api/chat`
+* **Método:** `POST`
+* **Headers:** `Content-Type: application/json`
+
+**Ejemplo de Request:**
+```json
+{
+  "pregunta": "¿Qué experiencia tiene Matías en QA y Testing?"
+}
+```
+
+**Ejemplo de Response (200 OK):**
+
+```json
+{
+  "respuesta": "Matías cuenta con experiencia en testing funcional, reporte de bugs y auditorías de accesibilidad web para plataformas como Airbnb y Pinterest durante su formación en CILSA..."
+}
+```
+
 ## 📐 Prácticas de Arquitectura y QA
 * Diseño de aplicación estructurado en múltiples capas (Controlador, Servicio, Configuración).
 * Principios SOLID aplicados para facilitar futuras integraciones de Tool Calling.
