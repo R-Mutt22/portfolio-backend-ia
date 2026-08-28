@@ -1,0 +1,75 @@
+{
+  "perfil": {
+    "nombre": "Matías Zelarayán",
+    "titular": "Backend Developer Jr. · Java & Spring Boot",
+    "ubicacion": "Rosario, Argentina",
+    "sobre_mi": "Backend Developer Jr. especializado en Java y Spring Boot, con foco en el diseño de APIs RESTful, autenticación JWT y arquitectura limpia. Poseo experiencia liderando equipos técnicos en hackathons y desarrollando soluciones para clientes reales. Mi formación en Artes Visuales aporta un criterio analítico único para la detección temprana de errores (QA) y el diseño de interfaces. Actualmente cursando la Tecnicatura en Diseño y Desarrollo de Aplicaciones Multiplataforma (UNNOBA) con promedio 9,35."
+  },
+  "stack_tecnologico": {
+    "backend": ["Java", "Spring Boot", "Node.js", "Express", "Django", "APIs RESTful", "JWT", "Spring Security", "Spring WebSocket", "Spring Data JPA", "Spring AI", "Maven"],
+    "frontend": ["React", "Angular", "Astro", "TypeScript", "JavaScript", "HTML5", "CSS3", "Tailwind", "Bootstrap", "Vite"],
+    "bases_de_datos": ["PostgreSQL", "MySQL", "SQL"],
+    "devops_e_infraestructura": ["Docker", "Git", "GitHub", "OCI (Oracle Cloud Infrastructure)", "Cloudflare Pages", "Render"],
+    "testing_y_qa": ["Postman", "Testing Funcional", "Metodologías Ágiles", "Scrum", "Kanban", "QA"],
+    "web3_y_blockchain": ["Rust", "Anchor", "Solana", "Smart Contracts", "Wallet Adapter"]
+  },
+  "experiencia_laboral": [
+    {
+      "puesto": "Backend Developer Jr. Independiente",
+      "periodo": "Enero 2025 - Actualidad",
+      "descripcion": "Diseño e implementación de APIs RESTful con Java y Spring Boot, autenticación JWT y arquitectura limpia. Trabajo en equipos multidisciplinarios y proyectos con clientes reales, cubriendo el ciclo completo de desarrollo.",
+      "tags": ["Java", "Spring Boot", "JWT", "Freelance", "Backend"]
+    },
+    {
+      "puesto": "Desarrollador Frontend & Web en Almapiedra S.R.L.",
+      "periodo": "Mayo 2024 - Agosto 2024",
+      "descripcion": "Reestructuración web desde cero logrando una mejora del 22% en tiempo de carga. Modernización de código con optimización SEO básica y diseño de la arquitectura técnica base para futura integración de e-commerce.",
+      "tags": ["Frontend", "SEO", "Performance", "E-commerce", "Arquitectura Web"]
+    },
+    {
+      "puesto": "Analista de Performance & Comunicación Digital en ArteCo",
+      "periodo": "Mayo 2023 - Julio 2023",
+      "descripcion": "Aumento del 35% en visibilidad online mediante monitoreo de métricas clave. Optimización de UX en plataforma web del evento cultural.",
+      "tags": ["UX", "Performance", "Comunicación Digital", "Métricas"]
+    }
+  ],
+  "proyectos_destacados": [
+    {
+      "nombre": "Skill Link",
+      "rol": "Tech Lead Backend",
+      "descripcion": "Plataforma de mentoría para desarrolladores. 3er puesto en Hackathon Alumnithon 2025 (Alura Latam). Liderazgo técnico coordinando 3 colaboradores. Diseño de arquitectura Spring Boot con APIs RESTful seguras, chat en tiempo real y base de datos relacional.",
+      "tags": ["Java", "Spring Boot", "PostgreSQL", "JWT", "Spring Security", "Spring WebSocket", "Hackathon", "Tech Lead"]
+    },
+    {
+      "nombre": "ArtBlink",
+      "rol": "Full Stack / Web3 Developer",
+      "descripcion": "Red social on-chain para artistas visuales. Construida en 48hs durante Solana Latam Hackathon 2026. Seleccionada para incubación de Solana Foundation. Toda la lógica (crear perfil, publicar, likes, propinas) es 100% on-chain sin backend centralizado.",
+      "tags": ["Rust", "Anchor", "Solana", "React", "TypeScript", "Web3", "Hackathon"]
+    },
+    {
+      "nombre": "MediHub",
+      "rol": "Backend Developer",
+      "descripcion": "Sistema de gestión clínica (Open Source) para reemplazar procesos manuales. Arquitectura de microservicios con APIs RESTful, disponibilidad en tiempo real e integración con Google Calendar API. Equipo de +10 personas.",
+      "tags": ["Java", "Spring Boot", "PostgreSQL", "JWT", "Docker", "Microservicios", "Google Calendar API"]
+    },
+    {
+      "nombre": "Fundación Medjugorje",
+      "rol": "Developer",
+      "descripcion": "Plataforma web en producción desarrollada a medida para un cliente real (organización sin fines de lucro). Gestión de padrón de fieles y eventos con autenticación. Desarrollada colaborativamente por 13 personas.",
+      "tags": ["React", "Django", "Cliente Real", "Producción", "Trabajo en equipo"]
+    },
+    {
+      "nombre": "PetCare Platform",
+      "rol": "Frontend Developer",
+      "descripcion": "Marketplace de servicios para mascotas (Hackathon ONE - NoCountry). Integración completa con backend REST, manejo de estado con Context API y 3 roles de usuario diferentes (dueño, cuidador, admin).",
+      "tags": ["React", "JavaScript", "Tailwind", "Axios", "Frontend", "Hackathon"]
+    }
+  ],
+  "certificaciones_relevantes": [
+    "Testing con Metodologías y Automatización - CILSA (2025)",
+    "OCI Foundations Associate - Oracle ONE LAB Tech Advance (2025)",
+    "DevOps Formación - Alura Latam (2025)",
+    "Metodologías Ágiles (Scrum, Kanban, XP) - Polo Tecnológico Rosario (2025)",
+    "Especialización Backend Java - Oracle Next Education ONE (2024)"
+  ]
+}

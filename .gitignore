@@ -13,6 +13,15 @@ target/
 .springBeans
 .sts4-cache
 
+# Archivos de variables de entorno locales
+.env
+*.env
+.env.local
+
+# Propiedades secretas de Spring
+application-secret.properties
+application-local.properties
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
