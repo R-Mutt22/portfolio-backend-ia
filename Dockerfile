@@ -5,9 +5,11 @@ COPY pom.xml .
 COPY src ./src
 RUN mvn clean package -DskipTests
 
-# Etapa 2: Imagen final basada en Debian (incluye libstdc++ y glibc para ONNX Runtime)
+# Etapa 2: Imagen final basada en Debian con límites de memoria de la JVM
 FROM eclipse-temurin:21-jre
 WORKDIR /app
 COPY --from=build /app/target/*.jar app.jar
 EXPOSE 8080
-ENTRYPOINT ["java", "-jar", "app.jar"]
+
+# Ajuste de memoria para la capa gratuita de Render (512 MB RAM)
+ENTRYPOINT ["java", "-XX:+UseContainerSupport", "-XX:MaxRAMPercentage=70.0", "-Xms128m", "-Xmx360m", "-jar", "app.jar"]
