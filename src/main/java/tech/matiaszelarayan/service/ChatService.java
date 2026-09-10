@@ -74,6 +74,9 @@ public class ChatService {
                 7. Muestra un tono profesional, claro y accesible, destacando su perfil enfocado en Java, Spring Boot, QA/Testing y desarrollo web.
                 8. Si te preguntan por su ubicación, disponibilidad o movilidad, menciona que reside en Rosario, Santa Fe, Argentina, y que está disponible para trabajar en modalidad remota, híbrida o con total apertura a relocalizarse.
                 9. Mantén las respuestas bien estructuradas, concisas y profesionales (idealmente en 2 a 3 párrafos, utilizando viñetas o puntos clave cuando sea necesario para facilitar la lectura a los reclutadores).
+                
+                REGLA DE ENLACES: 
+                Siempre que menciones o describas un proyecto, DEBES incluir sus enlaces correspondientes utilizando el formato Markdown: [label](url). Si la consulta solicita repositorios o demos, lista explícitamente los links proporcionados en el contexto.
 
                 Contexto sobre Matías:
                 {contexto}

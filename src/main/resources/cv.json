@@ -1,75 +1,347 @@
 {
   "perfil": {
     "nombre": "Matías Zelarayán",
-    "titular": "Backend Developer Jr. · Java & Spring Boot",
-    "ubicacion": "Rosario, Argentina",
-    "sobre_mi": "Backend Developer Jr. especializado en Java y Spring Boot, con foco en el diseño de APIs RESTful, autenticación JWT y arquitectura limpia. Poseo experiencia liderando equipos técnicos en hackathons y desarrollando soluciones para clientes reales. Mi formación en Artes Visuales aporta un criterio analítico único para la detección temprana de errores (QA) y el diseño de interfaces. Actualmente cursando la Tecnicatura en Diseño y Desarrollo de Aplicaciones Multiplataforma (UNNOBA) con promedio 9,35."
+    "titular": "Full Stack & Backend Developer Jr. · Java & Spring Boot | Node.js & Express | Python & Django | QA Manual/Automation",
+    "ubicacion": "Rosario, Santa Fe, Argentina",
+    "contacto": {
+      "email": "matiaszelarayandev@gmail.com",
+      "linkedin": "https://linkedin.com/in/matiaszelarayan22",
+      "portfolio": "https://matias-zelarayan.pages.dev/",
+      "github_principal": "https://github.com/R-Mutt22",
+      "github_dev": "https://github.com/R-Mutt1917",
+      "github_academic": "https://github.com/matiaszelarayan",
+      "medium": "https://medium.com/@r.mutt1917"
+    },
+    "sobre_mi": "Técnico Universitario graduado en Diseño y Desarrollo de Aplicaciones Multiplataforma (UNNOBA, promedio 9,35) enfocado en desarrollo Backend, arquitecturas Full Stack y QA. Cuento con experiencia diseñando e implementando APIs RESTful seguras con Java (Spring Boot), Express y Python (Django), así como desarrollo dApp on-chain. Destaco por la aplicación de pruebas funcionales, arquitectura limpia e integración de herramientas de IA en el flujo de trabajo (Claude Code, Spring AI). Lideré equipos en hackathons (3er puesto en Alumnithon 2025 e Incubación con Solana Foundation 2026) y desarrollé plataformas integrales para clientes reales y ONGs."
   },
   "stack_tecnologico": {
-    "backend": ["Java", "Spring Boot", "Node.js", "Express", "Django", "APIs RESTful", "JWT", "Spring Security", "Spring WebSocket", "Spring Data JPA", "Spring AI", "Maven"],
-    "frontend": ["React", "Angular", "Astro", "TypeScript", "JavaScript", "HTML5", "CSS3", "Tailwind", "Bootstrap", "Vite"],
-    "bases_de_datos": ["PostgreSQL", "MySQL", "SQL"],
-    "devops_e_infraestructura": ["Docker", "Git", "GitHub", "OCI (Oracle Cloud Infrastructure)", "Cloudflare Pages", "Render"],
-    "testing_y_qa": ["Postman", "Testing Funcional", "Metodologías Ágiles", "Scrum", "Kanban", "QA"],
-    "web3_y_blockchain": ["Rust", "Anchor", "Solana", "Smart Contracts", "Wallet Adapter"]
+    "backend": [
+      "Java",
+      "Spring Boot",
+      "Spring Security",
+      "Spring Data JPA",
+      "Spring WebSocket",
+      "Spring AI",
+      "Typescript",
+      "Node.js",
+      "Express",
+      "APIs RESTful",
+      "JWT",
+      "Python",
+      "Django REST Framework"
+    ],
+    "frontend": [
+      "React",
+      "TypeScript",
+      "JavaScript (ES6+)",
+      "Angular",
+      "Astro",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Vite"
+    ],
+    "bases_de_datos": [
+      "PostgreSQL",
+      "MySQL",
+      "Sequelize ORM",
+      "SQL"
+    ],
+    "devops_cloud_e_infraestructura": [
+      "Docker",
+      "Git",
+      "GitHub",
+      "Oracle Cloud Infrastructure (OCI)",
+      "AWS (re/Start)",
+      "Cloudflare Pages",
+      "Render"
+    ],
+    "qa_testing_y_metodologias": [
+      "TestLink",
+      "Postman",
+      "Swagger",
+      "TestCraft",
+      "Cypress",
+      "Robot Framework",
+      "Pytest",
+      "Testing Funcional",
+      "Accesibilidad Web (WCAG 2.1)",
+      "Scrum",
+      "Kanban",
+      "Jira",
+      "Trello"
+    ],
+    "ia_y_productividad": [
+      "Claude Code CLI",
+      "GitHub Copilot",
+      "Agentes de IA",
+      "RAG Architecture",
+      "Prompt Engineering"
+    ],
+    "web3_y_blockchain": [
+      "Rust",
+      "Anchor",
+      "Solana Devnet",
+      "Smart Contracts",
+      "Solana Wallet Adapter"
+    ]
   },
   "experiencia_laboral": [
     {
-      "puesto": "Backend Developer Jr. Independiente",
-      "periodo": "Enero 2025 - Actualidad",
-      "descripcion": "Diseño e implementación de APIs RESTful con Java y Spring Boot, autenticación JWT y arquitectura limpia. Trabajo en equipos multidisciplinarios y proyectos con clientes reales, cubriendo el ciclo completo de desarrollo.",
-      "tags": ["Java", "Spring Boot", "JWT", "Freelance", "Backend"]
+      "puesto": "Full Stack & Backend Developer Jr. (Freelance / Independiente)",
+      "periodo": "Agosto 2025 - Actualidad",
+      "modalidad": "Remoto",
+      "descripcion": "Diseño, desarrollo y testing de soluciones web de extremo a extremo para clientes reales, startups y hackathons.",
+      "logros_clave": [
+        "Desarrollé la arquitectura del backend para múltiples proyectos utilizando Java Spring Boot y Python Django REST Framework.",
+        "Lideré el diseño de smart contracts y dApps en Solana seleccionadas para incubación acelerada.",
+        "Implementé pruebas de carga y rendimiento garantizando estabilidad y cero fallas en entregables de producción."
+      ],
+      "tags": ["Java", "Spring Boot", "JWT", "Freelance", "Backend", "Node.js", "Express", "Typescript", "JavaScript", "Python", "Django", "React", "Docker", "QA"]
     },
     {
-      "puesto": "Desarrollador Frontend & Web en Almapiedra S.R.L.",
-      "periodo": "Mayo 2024 - Agosto 2024",
-      "descripcion": "Reestructuración web desde cero logrando una mejora del 22% en tiempo de carga. Modernización de código con optimización SEO básica y diseño de la arquitectura técnica base para futura integración de e-commerce.",
-      "tags": ["Frontend", "SEO", "Performance", "E-commerce", "Arquitectura Web"]
+      "puesto": "Desarrollador Frontend & Practicante IT",
+      "empresa": "Asociación Civil Alas Raíces (vía CILSA)",
+      "periodo": "Mayo 2026 - Julio 2026",
+      "modalidad": "Remoto / Híbrido",
+      "descripcion": "Desarrollo integral de la plataforma institucional para una ONG nacional de acompañamiento a comunidades indígenas.",
+      "logros_clave": [
+        "Diseñé la arquitectura frontend modular con Vite y Vanilla JS usando ES Modules sin dependencias pesadas.",
+        "Construí un mapa interactivo en SVG con datos dinámicos de comunidades por provincia y un modal de donaciones integrado a flujos bancarios reales (código QR y CBU).",
+        "Implementé flujo de trabajo colaborativo en Git con feature branches, Pull Requests y revisiones técnicas de código."
+      ],
+      "tags": ["JavaScript", "Vite", "SVG", "Git", "UX/UI", "CILSA"]
     },
     {
-      "puesto": "Analista de Performance & Comunicación Digital en ArteCo",
+      "puesto": "Desarrollador Frontend & Web",
+      "empresa": "Almapiedra S.R.L.",
+      "periodo": "Mayo 2025 - Agosto 2025",
+      "modalidad": "Rosario, Presencial",
+      "descripcion": "Rediseño completo y optimización de la infraestructura web institucional de la empresa.",
+      "logros_clave": [
+        "Reestructuré el código base logrando una reducción del 22% en el tiempo de carga del sitio.",
+        "Apliqué optimización SEO técnica y diseño responsive avanzado.",
+        "Diseñé la arquitectura base y el modelado previo para la integración modular de e-commerce."
+      ],
+      "tags": ["Frontend", "Performance", "SEO", "E-commerce Architecture"]
+    },
+    {
+      "puesto": "Analista de Performance & Comunicación Digital",
+      "empresa": "ArteCo (Feria de Arte Contemporáneo)",
       "periodo": "Mayo 2023 - Julio 2023",
-      "descripcion": "Aumento del 35% en visibilidad online mediante monitoreo de métricas clave. Optimización de UX en plataforma web del evento cultural.",
-      "tags": ["UX", "Performance", "Comunicación Digital", "Métricas"]
+      "modalidad": "Remoto",
+      "descripcion": "Análisis de métricas web, optimización de UX y estrategia digital para evento masivo.",
+      "logros_clave": [
+        "Aumenté en un 35% la visibilidad online mediante monitoreo continuo de KPIs y optimización del embudo de conversión.",
+        "Mejoré la usabilidad y la experiencia del visitante en la plataforma del evento cultural."
+      ],
+      "tags": ["UX", "Performance", "Métricas", "Estrategia Digital"]
     }
   ],
   "proyectos_destacados": [
     {
-      "nombre": "Skill Link",
-      "rol": "Tech Lead Backend",
-      "descripcion": "Plataforma de mentoría para desarrolladores. 3er puesto en Hackathon Alumnithon 2025 (Alura Latam). Liderazgo técnico coordinando 3 colaboradores. Diseño de arquitectura Spring Boot con APIs RESTful seguras, chat en tiempo real y base de datos relacional.",
-      "tags": ["Java", "Spring Boot", "PostgreSQL", "JWT", "Spring Security", "Spring WebSocket", "Hackathon", "Tech Lead"]
+      "id": "asociacion-medjugorje",
+      "nombre": "Plataforma de Gestión y Comunicación — Asociación Centro Medjugorje",
+      "tipo": "Proyecto Final de Grado (Tesis de Título)",
+      "rol": "Full Stack Developer & QA",
+      "descripcion": "Ecosistema digital integral que automatizó la administración y centralizó las comunicaciones de una comunidad con más de 125.000 personas.",
+      "stack": ["React", "Vite", "Django REST Framework", "PostgreSQL", "SendGrid API"],
+      "puntos_clave": [
+        "Arquitectura desacoplada cliente-servidor con autenticación por roles y gestión automatizada de correos.",
+        "Auditoría de rendimiento con Apache JMeter demostrando un 0% de tasa de error en pruebas de carga pesada y respuestas CRUD < 0.5s.",
+        "Validación con usuarios reales alcanzando un 100% de éxito en tareas críticas de usabilidad."
+      ],
+      "links": [
+        {
+          "tipo": "github",
+          "label": "Código Fuente",
+          "url": "https://github.com/matiaszelarayan/Medjugorje"
+        },
+        {
+          "tipo": "Artículo",
+          "label": "Ver Caso de Estudio / Tesis de Título",
+          "url": "https://medium.com/@r.mutt1917/de-planillas-de-excel-dispersas-a-la-nube-cd983a056b72"
+        }
+      ]
     },
     {
-      "nombre": "ArtBlink",
+      "id": "portfolio-rag-ia",
+      "nombre": "Asistente IA RAG & Portafolio Conversacional",
+      "tipo": "Proyecto Personal / Innovación",
+      "rol": "Full Stack Developer",
+      "descripcion": "Portafolio profesional interactivo respaldado por un sistema RAG (Retrieval-Augmented Generation) para responder consultas técnicas sobre mi perfil en tiempo real.",
+      "stack": ["Java 21", "Spring Boot", "Spring AI", "Astro", "React", "TypeScript", "Cloudflare Pages"],
+      "puntos_clave": [
+        "Pipeline RAG implementado con Spring AI para ingesta e indexación semántica de datos personales y repositorio técnico.",
+        "Frontend ultrarrápido en Astro + React optimizado para UX móvil (100dvh) y SEO avanzado.",
+        "CI/CD automatizado desplegado en Cloudflare Pages con HTTPS y dominio propio."
+      ],
+      "links": [
+        {
+          "tipo": "github",
+          "label": "Código Fuente",
+          "url": "https://github.com/R-Mutt22/portfolio-frontend-ia"
+        },
+        {
+          "tipo": "demo",
+          "label": "Probar Asistente / Demo",
+          "url": "https://matiaszelarayan.tech"
+        },
+        {
+          "tipo": "articulo",
+          "label": "Documentación Técnica IA",
+          "url": "https://medium.com/@r.mutt1917"
+        }
+      ]
+    },
+    {
+      "id": "circular-local",
+      "nombre": "Circular Local — Plataforma de Economía Circular",
+      "tipo": "XAcademy Dev (Technology with Purpose Foundation)",
+      "rol": "Full Stack Developer",
+      "descripcion": "Plataforma web para conectar cooperativas, recicladores y emprendedores sustentables, facilitando el intercambio de materiales y servicios ecológicos.",
+      "stack": ["Node.js", "Express", "Angular", "Sequelize", "MySQL", "Socket.io", "Docker"],
+      "puntos_clave": [
+        "Diseño de API REST en capas limpias con modelos Sequelize complejos para ofertas, demandas y métricas de impacto ambiental.",
+        "Implementación de chat conversacional en tiempo real mediante WebSockets (Socket.io).",
+        "Entorno 100% dockerizado garantizando paridad total entre desarrollo y producción."
+      ],
+      "links": [
+        {
+          "tipo": "github",
+          "label": "Código Fuente",
+          "url": "https://github.com/R-Mutt1917/CircularLocal"
+        }
+      ]
+    },
+    {
+      "id": "artblink-solana",
+      "nombre": "ArtBlink — Red Social On-Chain para Artistas",
+      "tipo": "Solana Latam Hackathon 2026",
       "rol": "Full Stack / Web3 Developer",
-      "descripcion": "Red social on-chain para artistas visuales. Construida en 48hs durante Solana Latam Hackathon 2026. Seleccionada para incubación de Solana Foundation. Toda la lógica (crear perfil, publicar, likes, propinas) es 100% on-chain sin backend centralizado.",
-      "tags": ["Rust", "Anchor", "Solana", "React", "TypeScript", "Web3", "Hackathon"]
+      "descripcion": "Red social descentralizada que elimina intermediarios, permitiendo a creadores monetizar obras mediante propinas directas en SOL y registro on-chain.",
+      "stack": ["Rust", "Anchor", "Solana Devnet", "React", "TypeScript", "Solana Wallet Adapter"],
+      "puntos_clave": [
+        "Desarrollada en 48hs y seleccionada para el Programa Oficial de Incubación de la Solana Foundation.",
+        "Lógica 100% on-chain en Rust/Anchor (perfiles, publicaciones, interacciones y tesorería).",
+        "Pruebas formales de verificación de código en Devnet con más de 20 casos de prueba."
+      ],
+      "links": [
+        {
+          "tipo": "github",
+          "label": "Código Fuente",
+          "url": "https://github.com/R-Mutt1917/artblink"
+        }
+      ]
     },
     {
-      "nombre": "MediHub",
+      "id": "skill-link",
+      "nombre": "Skill Link — Plataforma de Mentorías Dev",
+      "tipo": "Hackathon Alumnithon 2025 (Alura Latam) — 3er Puesto",
+      "rol": "Tech Lead Backend",
+      "descripcion": "Sistema web que conecta desarrolladores con mentores y salas de resolución de problemas en tiempo real.",
+      "stack": ["Java", "Spring Boot", "Spring WebSocket", "Spring Security", "JWT", "PostgreSQL", "Render"],
+      "puntos_clave": [
+        "Lideré técnicamente a un equipo de 4 desarrolladores backend, obteniendo el 3er puesto entre decenas de proyectos.",
+        "Diseño de arquitectura de persistencia, seguridad con JWT/CORS y WebSocket para notificaciones y chats instantáneos."
+      ],
+      "links": [
+        {
+          "tipo": "github",
+          "label": "Código Fuente",
+          "url": "https://github.com/R-Mutt22/alumnithon-bad-batch-backend"
+        }
+      ]
+    },
+    {
+      "id": "medihub",
+      "nombre": "MediHub — Sistema de Gestión Clínica Microservicios",
+      "tipo": "Simulación Laboral NoCountry",
       "rol": "Backend Developer",
-      "descripcion": "Sistema de gestión clínica (Open Source) para reemplazar procesos manuales. Arquitectura de microservicios con APIs RESTful, disponibilidad en tiempo real e integración con Google Calendar API. Equipo de +10 personas.",
-      "tags": ["Java", "Spring Boot", "PostgreSQL", "JWT", "Docker", "Microservicios", "Google Calendar API"]
-    },
-    {
-      "nombre": "Fundación Medjugorje",
-      "rol": "Developer",
-      "descripcion": "Plataforma web en producción desarrollada a medida para un cliente real (organización sin fines de lucro). Gestión de padrón de fieles y eventos con autenticación. Desarrollada colaborativamente por 13 personas.",
-      "tags": ["React", "Django", "Cliente Real", "Producción", "Trabajo en equipo"]
-    },
-    {
-      "nombre": "PetCare Platform",
-      "rol": "Frontend Developer",
-      "descripcion": "Marketplace de servicios para mascotas (Hackathon ONE - NoCountry). Integración completa con backend REST, manejo de estado con Context API y 3 roles de usuario diferentes (dueño, cuidador, admin).",
-      "tags": ["React", "JavaScript", "Tailwind", "Axios", "Frontend", "Hackathon"]
+      "descripcion": "Sistema Open Source para la digitalización de turnos e historiales médicos en pequeñas clínicas.",
+      "stack": ["Java", "Spring Boot", "Docker", "PostgreSQL", "JWT", "Google Calendar API"],
+      "puntos_clave": [
+        "Arquitectura de 8 microservicios independientes integrados mediante APIs RESTful y contenedores Docker.",
+        "Desarrollé la lógica de sincronización de agencias y disponibilidad en tiempo real con la API de Google Calendar."
+      ],
+      "links": [
+        {
+          "tipo": "github",
+          "label": "Código Fuente",
+          "url": "https://github.com/nc-proyectos/Medihub"
+        }
+      ]
     }
   ],
-  "certificaciones_relevantes": [
-    "Testing con Metodologías y Automatización - CILSA (2025)",
-    "OCI Foundations Associate - Oracle ONE LAB Tech Advance (2025)",
-    "DevOps Formación - Alura Latam (2025)",
-    "Metodologías Ágiles (Scrum, Kanban, XP) - Polo Tecnológico Rosario (2025)",
-    "Especialización Backend Java - Oracle Next Education ONE (2024)"
+  "educacion": [
+    {
+      "titulo": "Técnico Universitario en Diseño y Desarrollo de Aplicaciones Multiplataforma (TUDDAM)",
+      "institucion": "Universidad Nacional del Noroeste de la Provincia de Buenos Aires (UNNOBA)",
+      "estado": "Graduado (Título Obtenido)",
+      "promedio": 9.35,
+      "periodo": "2024 - 2026",
+      "detalles": "Especialización en arquitectura de software, POO, estructuras de datos, desarrollo cliente-servidor y proyectos finales con clientes reales."
+    },
+    {
+      "titulo": "Diplomatura en Gestión de Proyectos Culturales",
+      "institucion": "Universidad Nacional de Jujuy",
+      "periodo": "2020 - 2021",
+      "detalles": "Formación en planificación, ejecución y evaluación de proyectos interculturales, con enfoque en innovación y sostenibilidad. Con trabajo valores de solidaridad y buenas prácticas profesionales desde el punto de vista ético y social"
+    },
+    {
+      "titulo": "Licenciatura en Artes Visuales",
+      "institucion": "Universidad Nacional de Tucumán",
+      "periodo": "2009 - 2013",
+      "detalles": "Tiene una actitud de búsqueda de respuestas originales frente a diversas situaciones. Con actitud crítica y flexible que le permite evaluar su propio trabajo y colaborar en equipos interdisciplinarios."
+    }
+  ],
+  "certificaciones_destacadas": [
+    {
+      "nombre": "Claude Code in Action (Claude Code CLI & AI Agents)",
+      "emisor": "Anthropic / Claude Academy",
+      "fecha": "Septiembre 2026",
+      "credencial_id": "8def5701ed46c15542b26443324586be"
+    },
+    {
+      "nombre": "ONE | Inmersión Agentes de IA",
+      "emisor": "Alura Latam",
+      "fecha": "Mayo 2026"
+    },
+    {
+      "nombre": "QA Automation & Testing Funcional",
+      "emisor": "XAcademy / CILSA",
+      "fecha": "2025 - 2026"
+    },
+    {
+      "nombre": "Oracle Cloud Infrastructure 2025 Certified Foundations Associate",
+      "emisor": "Oracle",
+      "fecha": "Julio 2025"
+    },
+    {
+      "nombre": "Metodologías Ágiles (Scrum, Kanban, XP)",
+      "emisor": "Polo Tecnológico Rosario",
+      "fecha": "2025"
+    },
+    {
+      "nombre": "Especialización Backend Java & Spring Boot",
+      "emisor": "Oracle Next Education (ONE) / Alura",
+      "fecha": "2024"
+    },
+    {
+      "nombre": "AWS re/Start — Cloud Practitioner",
+      "emisor": "Amazon Web Services / Potrero Digital",
+      "fecha": "2023"
+    }
+  ],
+  "idiomas": [
+    {
+      "idioma": "Español",
+      "nivel": "Nativo"
+    },
+    {
+      "idioma": "Inglés",
+      "nivel": "Competencia profesional de trabajo (Lectura técnica fluida, escritura técnica y razonamiento avanzado)"
+    }
   ]
 }
