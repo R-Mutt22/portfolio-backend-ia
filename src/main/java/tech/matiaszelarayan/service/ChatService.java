@@ -47,9 +47,9 @@ public class ChatService {
             }
         }
 
-        // 3. Buscar en VectorStore la información relevante del CV/Proyectos (Top 3)
+        // 3. Buscar en VectorStore la información relevante del CV/Proyectos (Top 5)
         List<Document> documentosRelevantes = vectorStore.similaritySearch(
-                SearchRequest.builder().query(preguntaLimpia).topK(3).build()
+                SearchRequest.builder().query(preguntaLimpia).topK(5).build()
         );
 
         // 4. Unir los fragmentos en un único bloque de contexto
