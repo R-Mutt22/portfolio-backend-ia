@@ -20,10 +20,10 @@
   "perfil_humano_y_creativo": {
     "sintesis": "Perfil híbrido que une ingeniería de software, aseguramiento de calidad (QA), antropología y práctica artística contemporánea. Esta intersección aporta criterio estético en UX/UI, accesibilidad (WCAG), claridad en Prompt Engineering y creatividad para resolver problemas complejos.",
     "arte_y_gestion_cultural": [
-      "Artista visual contemporáneo con formación en el Programa de Artistas de la Universidad Torcuato Di Tella (UTDT) y Licenciatura en Artes Visuales (UNT).",
+      "Artista visual contemporáneo con formación en el Programa de Artistas de la Universidad Torcuato Di Tella (UTDT) y Artes Visuales (UNT).",
       "Desarrollo de instalaciones, objetos, piezas digitales reutilizando pantallas de monitores reciclados y arte generativo/código creativo.",
-      "Cofundador y gestor cultural de Casa de Piedra Residencia de Artistas (Santa María, Catamarca), liderando exposiciones, talleres, residencias, presupuestos/fundraising y alianzas institucionales.",
-      "Investigador y sistematizador de datos en Taller C - Proyecto CIUNT (6° Foro de Arte Contemporáneo, Tucumán), diseñando bases de datos y documentación académica."
+      "Cofundador y gestor cultural de Casa de Piedra Residencia de Artistas y Galeria de Arte (Santa María, Catamarca), liderando exposiciones, talleres, residencias, presupuestos/fundraising y alianzas institucionales.",
+      "Investigador y sistematizador de datos en Taller C - Proyecto CIUNT (Foro de Arte Contemporáneo, Tucumán), diseñando bases de datos y documentación académica."
     ],
     "intereses_y_estilo_de_vida": [
       "Deportes y naturaleza: andar en bicicleta por la costanera de Rosario y remar en kayak en el río Paraná.",
@@ -318,6 +318,11 @@
           "tipo": "github",
           "label": "Código Fuente",
           "url": "https://github.com/R-Mutt1917/artblink"
+        },
+        {
+          "tipo": "articulo",
+          "label": "Mi experiencia en el Solana WayLearn Hackathon 2026 en Medium",
+          "url": "https://medium.com/@r.mutt1917/constru%C3%AD-una-red-social-on-chain-en-48-horas-as%C3%AD-fue-el-proceso-211e72a934be"
         }
       ]
     },
@@ -382,7 +387,7 @@
       "detalles": "Arquitectura de software, POO, estructuras de datos, desarrollo cliente-servidor y proyectos integrales."
     },
     {
-      "titulo": "Licenciatura en Antropología",
+      "titulo": "Antropología",
       "institucion": "Universidad Nacional de Rosario (UNR)",
       "periodo": "2022 - 2025",
       "detalles": "Investigación social, pensamiento crítico y análisis contextual aplicado a comunidades y usuarios."
@@ -400,7 +405,7 @@
       "detalles": "Planificación, gestión y evaluación de proyectos interculturales con enfoque ético, social y sostenible."
     },
     {
-      "titulo": "Licenciatura en Artes Visuales",
+      "titulo": "Artes Visuales",
       "institucion": "Universidad Nacional de Tucumán (UNT)",
       "periodo": "2008 - 2013",
       "detalles": "Práctica artística, búsqueda de soluciones originales y colaboración interdisciplinaria."
